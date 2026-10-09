@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Proxy Optimizer"
+  short_description: "Diagnose and optimize Claude routing and DNS privacy"
+  default_prompt: "Use $claude-proxy-optimize to inspect my proxy, optimize Claude routing and DNS, and verify the result."
